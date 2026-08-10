@@ -86,3 +86,5 @@ Nonlinear sigmoidal dynamics destabilize non‑backtracking propagation, produci
 - **Nonlinear dynamical systems**  
 
 ---
+
+**Contributions are off**
