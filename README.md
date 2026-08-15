@@ -1,6 +1,26 @@
-# Nonlinear Sigmoidal Hashimoto Dynamics (Julia)  
+`2026-1007-D-read-001.md`  
 
-A nonlinear extension of 5.0 introducing sigmoidal update rules, Jacobian stability, fixed points, and limit cycles for non‑backtracking operators.
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-1007-D-read-001`  
+# Nonlinear Sigmoidal Hashimoto Dynamics
+### Project    
+
+**Type**: read   
+**Classification**: D  
+**Version**: 1.0     
+
+William Murray  
+Systems Architect  
+15 August 2026  
+
+**Status**: Draft     
+
+**Scope**: A nonlinear extension of the Hashimoto‑operator framework (v5.0), introducing sigmoidal update rules, Jacobian‑based stability analysis, fixed‑point characterization, and limit‑cycle detection for non‑backtracking dynamics. Serves as a focused research probe into how nonlinear propagation alters spectral behavior, dynamical regimes, and interpretability relative to the linear Hashimoto operator.  
+
+**Primary Model / Scheme**: Nonlinear Hashimoto Dynamics Scheme v0.1 — defines sigmoidal update functions, nonlinear propagation rules, Jacobian stability criteria, fixed‑point and limit‑cycle identification procedures, and comparative baselines against linear non‑backtracking operators. Provides the formal structure for evaluating dynamical divergence, stability envelopes, and emergent nonlinear regimes.  
 
 ---
 
