@@ -1,6 +1,6 @@
-# 5.1 — Nonlinear Sigmoidal Hashimoto Dynamics (Julia)
+# Nonlinear Sigmoidal Hashimoto Dynamics (Julia)  
 
-A nonlinear extension of 5.0 introducing **sigmoidal update rules**, **Jacobian stability**, **fixed points**, and **limit cycles** for non‑backtracking operators.
+A nonlinear extension of 5.0 introducing sigmoidal update rules, Jacobian stability, fixed points, and limit cycles for non‑backtracking operators.
 
 ---
 
