@@ -1,10 +1,10 @@
-`2026-1007-D/README.md`  
+`2026-1002-D/README.md`  
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-1007-D-read-000`  
+**Document Reference**: `2026-1002-D-read-000`  
 # Nonlinear Sigmoidal Hashimoto Dynamics
 ### Project    
 
